@@ -4,8 +4,6 @@ This repo consists of some basics of OpenCV & Computer Vision. Also, there are 3
 - Document Scanner 🖨️
 - Number Plate Detector 🚗
 
-<br>
-
 ## Overview of Chapters
 - **Chapter 1** - Importing an image, a video, or to get live feed using a Webcam with the help of OpenCV Library
 - **Chapter 2** - Applying various image transformations such as *Chaning Color Schemes* (RGB to Gray, etc), *Blur* (Gaussian Blur), *Egde Detection*, *Thickening and Thinning of Edfes*
@@ -25,7 +23,6 @@ This repo consists of some basics of OpenCV & Computer Vision. Also, there are 3
 - And finally, we are iterating over the array, and plotting a point with the respective color, on the frame. 
 - A Live Demo of this project, can be checked out on [Youtube](https://youtu.be/1dsXc7whpfw) 
 
-<br>
 
 ## Project 2 |  Document Scanner 🖨️
 - In this project, we are trying to detect documents in the frame, and are trying to select it from the entire frame, similar to what we did in **Chapter 5**.
