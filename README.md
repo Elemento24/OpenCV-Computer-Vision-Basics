@@ -4,6 +4,8 @@ This repo consists of some basics of OpenCV & Computer Vision. Also, there are 3
 - Document Scanner 🖨️
 - Number Plate Detector 🚗
 
+<br>
+
 ## Overview of Chapters
 - **Chapter 1** - Importing an image, a video, or to get live feed using a Webcam with the help of OpenCV Library
 - **Chapter 2** - Applying various image transformations such as *Chaning Color Schemes* (RGB to Gray, etc), *Blur* (Gaussian Blur), *Egde Detection*, *Thickening and Thinning of Edfes*
