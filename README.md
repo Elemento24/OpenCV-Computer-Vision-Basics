@@ -1,8 +1,8 @@
 # OpenCV-Computer-Vision-Basics
 This repo consists of some basics of OpenCV & Computer Vision. Also, there are 3 projects in this repo, namely 
-- Virtual Paint
-- Document Scanner
-- Number Plate Detector 
+- Virtual Paint 🖌️
+- Document Scanner 🖨️
+- Number Plate Detector 🚗
 
 ## Overview of Chapters
 - **Chapter 1** - Importing an image, a video, or to get live feed using a Webcam with the help of OpenCV Library
@@ -40,7 +40,7 @@ This repo consists of some basics of OpenCV & Computer Vision. Also, there are 3
 <br>
 
 
-## Project 3 | Number Plate Detector
+## Project 3 | Number Plate Detector 🚗
 - In this project, we are detecting a Number Plate out of a Static Image or Live Feed, using **Haar Cascades**, similar to what we learnt in **Chapter 9**.
 - If we want to, we can also save the detected Number Plate, in an Image Format.
 - You can see it working & some examples of it below 👇
